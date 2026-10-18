@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;100.0;100.0;NA;NA;0;0;"All recovery labels are Yes; partial recovery normalized to Yes. Kappa undefined because both raters use one category. Original agreements carried forward unchanged."
+WhyRecovered;100.0;100.0;NA;NA;0;0;Meaning-based agreement for written explanations. No disagreements recorded. Original agreements carried forward unchanged.
+ActivityPattern;70.0;100.0;0.5775;1;3;3;Three disagreements resolved. cyclic normalized to cyclical. Gridss U-shaped label retained after discussion. Original agreements carried forward unchanged.
+Currentstatus;100.0;100.0;1;1;0;0;Both reviews use the September 30, 2026 cutoff chosen for this analysis. Original agreements carried forward unchanged.
+RecentThemes;80.0;100.0;NA;NA;2;2;Two disagreements resolved, including one compromise. Documentation updated normalized to Documentation updates. Original agreements carried forward unchanged.
